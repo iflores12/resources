@@ -19,3 +19,14 @@
 
     - Airflow Concepts
     - How to get Started and an overview of Astronomer.io (managed airflow instances)
+
+## Redshift
+[Best Practices with Amazon Redshift](https://www.youtube.com/watch?v=Hur-p3kGDTA)
+
+    - Overview and best practices
+    - By Tony Gibbs: Sr. Data Warehouse Solutions Architect
+
+[Amazon Redshift Engineering's Advanced Table Design Playbook](https://aws.amazon.com/blogs/big-data/amazon-redshift-engineerings-advanced-table-design-playbook-preamble-prerequisites-and-prioritization/)
+
+    - 5 Part Series
+    - Covers key topics like system tables, dist keys/sort keys, compression, etc in more detail
